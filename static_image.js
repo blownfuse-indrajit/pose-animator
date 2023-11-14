@@ -27,7 +27,7 @@ import {PoseIllustration} from './illustrationGen/illustration';
 import {Skeleton, facePartName2Index} from './illustrationGen/skeleton';
 import {toggleLoadingUI, setStatusText} from './utils/demoUtils';
 
-import * as boySVG from './resources/illustration/boy.svg';
+import * as boySVG from './resources/illustration/boy2.svg';
 import * as girlSVG from './resources/illustration/girl.svg';
 import * as abstractSVG from './resources/illustration/abstract.svg';
 import * as blathersSVG from './resources/illustration/blathers.svg';
